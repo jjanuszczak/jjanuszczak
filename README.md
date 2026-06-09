@@ -31,11 +31,11 @@ I create **AI-native tools and infrastructure** that turn chaotic workflows into
 
 ## 🚀 Featured Projects
 
-- **[margo](https://github.com/jjanuszczak/margo)** — Lightning-fast, Hugo-inspired Go CLI that turns pure Markdown into beautiful, scriptable slide decks for developers and AI agents.
-- **[crm-logic](https://github.com/jjanuszczak/crm-logic)** — Agentic AI-powered, markdown-native CRM. Turns Google Workspace activity into a durable Git-versioned knowledge base with specialized LLM agents.
-- **[google-drive-email-extension](https://github.com/jjanuszczak/google-drive-email-extension)** — Chrome extension that lets you right-click any Google Drive file and instantly create a Gmail draft with the file attached.
-- **[freshdeskr](https://github.com/jjanuszczak/freshdeskr)** — Clean, idiomatic R package wrapping the Freshdesk API — built as a practical example of modern R package development with devtools, testthat, and CI.
-- **[homebrew-margo](https://github.com/jjanuszczak/homebrew-margo)** — Official Homebrew tap for one-command installation of Margo.
+- **[margo](https://github.com/jjanuszczak/margo)**: Lightning-fast, Hugo-inspired Go CLI that turns pure Markdown into beautiful, scriptable slide decks for developers and AI agents.
+- **[crm-logic](https://github.com/jjanuszczak/crm-logic)**: Agentic AI-powered, markdown-native CRM. Turns Google Workspace activity into a durable Git-versioned knowledge base with specialized LLM agents.
+- **[google-drive-email-extension](https://github.com/jjanuszczak/google-drive-email-extension)**: Chrome extension that lets you right-click any Google Drive file and instantly create a Gmail draft with the file attached.
+- **[freshdeskr](https://github.com/jjanuszczak/freshdeskr)**: Clean, idiomatic R package wrapping the Freshdesk API — built as a practical example of modern R package development with devtools, testthat, and CI.
+- **[homebrew-margo](https://github.com/jjanuszczak/homebrew-margo)**: Official Homebrew tap for one-command installation of Margo.
 
 ## 📝 Recent Articles
 
