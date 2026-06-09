@@ -1,6 +1,12 @@
 ## Venture & Transformation Architect
 
-Building ventures & guiding boards/leaderhsip teams on AI, Fintech & Energy Transition. Building systems that scale from zero to ​>100B GTV.
+Building ventures & guiding boards/leaderhsip teams on AI, Fintech & Energy Transition. Building systems that scale from zero to ​>100B GTV. AI-native tools & infrastructure.
+
+Astrophysicist turned Fintech CEO Applying the rigor of astrophysics to the chaos of fintech innovation. Bridging technology, capital, and leadership for the next generation of transformative ventures. 
+
+Current focus includes agentic systems, markdown-first workflows, developer tools.
+
+Read more about what I am thinking about and working on at [>_ John Januszczak | Technology & Innovation](https://januszczak.org/). 
 
 ## Recent articles:
 
