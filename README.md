@@ -1,4 +1,12 @@
-## Hi there 👋
+## Venture & Transformation Architect
+
+Building ventures & guiding boards/leaderhsip teams on AI, Fintech & Energy Transition. Building systems that scale from zero to ​>100B GTV.
+
+## Recent articles:
+
+* [Deterministic Evals: Hardening AI Skills for Production](https://januszczak.org/lab/deterministic-evals-for-ai-skills/)
+* [From CRM App to LLM Knowledge Base: A Markdown-Native CRM for the Agent Era](https://januszczak.org/lab/crm-llm/)
+* [Investing in Atoms: How AI is Forcing Venture Capital to Break its Software Addiction](https://januszczak.org/articles/vc-atoms/)
 
 <!--
 **jjanuszczak/jjanuszczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
