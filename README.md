@@ -6,7 +6,7 @@ Astrophysicist turned Fintech CEO Applying the rigor of astrophysics to the chao
 
 Current focus includes agentic systems, markdown-first workflows, developer tools.
 
-Read more about what I am thinking about and working on at [>_ John Januszczak | Technology & Innovation](https://januszczak.org/). 
+Read more about what I am thinking about and working on at [John Januszczak | Technology & Innovation](https://januszczak.org/). 
 
 ## Recent articles:
 
