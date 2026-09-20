@@ -8,7 +8,7 @@ I create **AI-native tools and infrastructure** that turn chaotic workflows into
 [![X](https://img.shields.io/badge/X-@johnjanuszczak-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/johnjanuszczak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnjanuszczak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnjanuszczak/)
 
-## 🛠️ Tech & Tools I Ship With
+## Tech & Tools I Ship With
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,21 +29,22 @@ I create **AI-native tools and infrastructure** that turn chaotic workflows into
 
 -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[margo](https://github.com/jjanuszczak/margo)**: Lightning-fast, Hugo-inspired Go CLI that turns pure Markdown into beautiful, scriptable slide decks for developers and AI agents.
 - **[crm-llm](https://github.com/jjanuszczak/crm-llm)**: Agentic AI-powered, markdown-native CRM. Turns Google Workspace activity into a durable Git-versioned knowledge base with specialized LLM agents.
-- **[google-drive-email-extension](https://github.com/jjanuszczak/google-drive-email-extension)**: Chrome extension that lets you right-click any Google Drive file and instantly create a Gmail draft with the file attached.
+- **[JavaScript Object GUI](https://github.com/jjanuszczak/jog)**: Desktop-style JavaScript UI framework for building browser front ends without writing app HTML or touching the DOM directly.
+- **[Hugo Site Tools](https://github.com/jjanuszczak/hugo-site-tools)**: Release-ready tooling for Hugo sites: build, audit, inspect content, set up campaigns, and catch broken links before and after deployment.
 - **[freshdeskr](https://github.com/jjanuszczak/freshdeskr)**: Clean, idiomatic R package wrapping the Freshdesk API — built as a practical example of modern R package development with devtools, testthat, and CI.
 - **[homebrew-margo](https://github.com/jjanuszczak/homebrew-margo)**: Official Homebrew tap for one-command installation of Margo.
 
-## 📝 Recent Articles
+## Recent Articles
 
-- [Deterministic Evals: Hardening AI Skills for Production](https://januszczak.org/lab/deterministic-evals-for-ai-skills/)
+- [The Presentation Is Not the Product. The System Is.](https://januszczak.org/lab/presentation-system-not-product/)
 - [From CRM App to LLM Knowledge Base: A Markdown-Native CRM for the Agent Era](https://januszczak.org/lab/crm-llm/)
-- [Investing in Atoms: How AI is Forcing Venture Capital to Break its Software Addiction](https://januszczak.org/articles/vc-atoms/)
+- [Reliable Agents Need Contracts, Not Better Prompts](https://januszczak.org/lab/developing-effective-agents/)
 
-## 🌐 Let's Connect
+## Let's Connect
 
 - **Website & Lab** → [januszczak.org](https://januszczak.org/)
 - **X** → [@johnjanuszczak](https://x.com/johnjanuszczak)
